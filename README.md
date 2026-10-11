@@ -1,4 +1,5 @@
 ## Allods Online
+### ⬇️ [Download the latest version](https://github.com/HerasX/Allods-English/releases/latest/download/Allods_RU_to_EN.zip)
 
 Play on the Russian servers with the game fully in English: quests, items, Battle Campaign, class rubies and tooltips.
 
