@@ -1,4 +1,4 @@
-# Allods Online – Complete English (VK Play Russian client)
+# Allods Online – Complete English
 
 Complete English texts for the Russian client of Allods Online (VK Play):
 official EU English, official texts from the international English client,
