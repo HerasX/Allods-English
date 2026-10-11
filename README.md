@@ -1,19 +1,16 @@
-# Allods Online – Complete English
+## Allods Online
 
-Complete English texts for the Russian client of Allods Online (VK Play):
-official EU English, official texts from the international English client,
-and every remaining Russian line translated (quests, Battle Campaign,
-class rubies...), with official names.
+Play on the Russian servers with the game fully in English: quests, items, Battle Campaign, class rubies and tooltips.
 
-## Install
-1. Download **Allods_RU_to_EN.zip** from the latest release and extract it.
-2. Start the game once from VK Play, then close it.
-3. Double-click **Play Allods in English.bat**. It creates an "Allods Online"
-   shortcut on your desktop.
+### Install
+1. Download **Allods_RU_to_EN.zip** and extract it anywhere.
+2. Start the game once in Russian from VK Play, then close it.
+3. Run **Play Allods in English.bat**.
 
-Updates are automatic: the script checks this repository at every launch
-and downloads the new translation when there is one.
+### What you get
+- **Complete English texts**: official EU translation + every missing or outdated line translated, with official names.
+- **Desktop shortcut**: an **Allods Online** shortcut (with the game icon) is created on your desktop on the first launch. Use it to play from then on.
+- **RuSearch addon** (installed automatically): Shift+click an item in English in the auction house, and it is converted to the Russian name, so you can find items on Russian servers while playing in English.
+- **Automatic updates**: new translations and addon updates are downloaded at every launch, nothing to reinstall.
 
-## Included addon
-**RuSearch** finds items in the auction house of Russian servers while
-playing in English.
+To play in Russian, use **Play in Russian.bat**.
