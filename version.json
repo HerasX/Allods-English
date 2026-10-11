@@ -1,13 +1,13 @@
 {
-  "version": 2,
-  "message": "RuSearch 2.0.0: chat messages are now hidden (debug mode off).",
+  "version": 3,
+  "message": "RuSearch 2.1.0: removed the automatic fallback search for generated item names.",
   "official_hash": "389C0C79BFF50729C2B79AA0789A4F6C00897ACB685DB2AA0906C3EE816D1DCC",
   "addons": [
     {
       "name": "RuSearch",
-      "version": "2.0.0",
-      "url": "https://github.com/HerasX/Allods-English/releases/download/v2/RuSearch.zip",
-      "sha256": "00122BB92A73A18C764C62431EA8F8FA4425B6513D2A1B481D4502037F5CDB9C"
+      "version": "2.1.0",
+      "url": "https://github.com/HerasX/Allods-English/releases/download/v3/RuSearch.zip",
+      "sha256": "7A5B3A4F35E0BA2A727E1EB6807BCF66201BB8875641EC282AB30AABD5DD86FF"
     }
   ]
 }
