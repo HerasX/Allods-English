@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "message": "Initial release.",
+  "official_hash": "389C0C79BFF50729C2B79AA0789A4F6C00897ACB685DB2AA0906C3EE816D1DCC",
+  "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v1/Texts_x64_source.pak",
+  "pak_sha256": "912D6AD6784513CE44300F053FDFB3118CD89D913F86BA66795D3134C3FB7F55",
+  "addons": [
+    {
+      "name": "RuSearch",
+      "version": "1.9.1",
+      "url": "https://github.com/HerasX/Allods-English/releases/download/v1/RuSearch.zip",
+      "sha256": "48871E4953AEC09448D8870C2409F9E63C22A7772C69D67595E2861CE159C853"
+    }
+  ]
+}
