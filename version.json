@@ -1,7 +1,9 @@
 {
-  "version": 3,
-  "message": "RuSearch 2.1.0: removed the automatic fallback search for generated item names.",
-  "official_hash": "389C0C79BFF50729C2B79AA0789A4F6C00897ACB685DB2AA0906C3EE816D1DCC",
+  "version": 4,
+  "message": "Updated for the 17th anniversary game update: new outfit texts and fixes.",
+  "official_hash": "9DF92F4E50A61410AD13D0D729FF0C6607A28D535DCF256CDD8467680F829C79",
+  "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v4/Texts_x64_source.pak",
+  "pak_sha256": "92FBD0C0FDB45C44E3D0269EEB233C4EE3EEDFD7F866AAA50D32B9E804358291",
   "addons": [
     {
       "name": "RuSearch",
