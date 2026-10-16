@@ -1,9 +1,14 @@
 {
-  "version": 4,
-  "message": "Updated for the 17th anniversary game update: new outfit texts and fixes.",
+  "version": 5,
+  "message": "Fixed Carnifex strongbox dates. New: after a game update, your last translation is kept automatically (new texts stay in Russian until the next update). The launcher now updates itself.",
   "official_hash": "9DF92F4E50A61410AD13D0D729FF0C6607A28D535DCF256CDD8467680F829C79",
-  "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v4/Texts_x64_source.pak",
-  "pak_sha256": "92FBD0C0FDB45C44E3D0269EEB233C4EE3EEDFD7F866AAA50D32B9E804358291",
+  "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v5/Texts_x64_source.pak",
+  "pak_sha256": "74D08CCD6A31F233129937F87BB9BE4298F6A7E390FE63EB3D2D4E748FBCAECB",
+  "script_version": 5,
+  "script_url": "https://github.com/HerasX/Allods-English/releases/download/v5/launch_translated.ps1",
+  "script_sha256": "4C6E343B822C63507AC8AD4B43C0F176D8E7164FCB686F3FF5F14D3F1734A406",
+  "merge_url": "https://github.com/HerasX/Allods-English/releases/download/v5/LocMerge.cs",
+  "merge_sha256": "B56D3CB1EB6F993870CA171A39060F37231E0698ACA37DB071132A4AD2359D2B",
   "addons": [
     {
       "name": "RuSearch",
