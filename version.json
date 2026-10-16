@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "message": "Fixed Carnifex strongbox dates. New: after a game update, your last translation is kept automatically (new texts stay in Russian until the next update). The launcher now updates itself.",
+  "version": 6,
+  "message": "RuSearch 3.5: while typing in the auction house, a \"Did you mean:\" list proposes item names; click one to search it by its Russian name. Only items sold at the auction house are listed (no NPC, spell or bound item).",
   "official_hash": "9DF92F4E50A61410AD13D0D729FF0C6607A28D535DCF256CDD8467680F829C79",
   "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v5/Texts_x64_source.pak",
   "pak_sha256": "74D08CCD6A31F233129937F87BB9BE4298F6A7E390FE63EB3D2D4E748FBCAECB",
@@ -12,9 +12,9 @@
   "addons": [
     {
       "name": "RuSearch",
-      "version": "2.1.0",
-      "url": "https://github.com/HerasX/Allods-English/releases/download/v3/RuSearch.zip",
-      "sha256": "7A5B3A4F35E0BA2A727E1EB6807BCF66201BB8875641EC282AB30AABD5DD86FF"
+      "version": "3.5.0",
+      "url": "https://github.com/HerasX/Allods-English/releases/download/v6/RuSearch.zip",
+      "sha256": "62D540BA552F460E3B58A3377A875C5CD81F79455E8202D6DA93A2AF24F4EFCE"
     }
   ]
 }
