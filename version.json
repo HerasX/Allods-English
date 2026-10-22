@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "message": "RuSearch 3.5: while typing in the auction house, a \"Did you mean:\" list proposes item names; click one to search it by its Russian name. Only items sold at the auction house are listed (no NPC, spell or bound item).",
   "official_hash": "37FF9204C240B1D483B362CD24DF207231E867A2EEDA85A7FB681DC651922953",
   "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v5/Texts_x64_source.pak",
