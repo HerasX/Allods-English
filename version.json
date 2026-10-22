@@ -3,4 +3,17 @@
   "official_hash": "37FF9204C240B1D483B362CD24DF207231E867A2EEDA85A7FB681DC651922953",
   "pak_url": "https://github.com/HerasX/Allods-English/releases/download/v7/Texts_x64_source.pak",
   "pak_sha256": "6ADCFA33EE52636A852B6F8099B976065E4D9DC09429008A7F943E6A981EC97D"
+  "script_version": 5,
+  "script_url": "https://github.com/HerasX/Allods-English/releases/download/v5/launch_translated.ps1",
+  "script_sha256": "4C6E343B822C63507AC8AD4B43C0F176D8E7164FCB686F3FF5F14D3F1734A406",
+  "merge_url": "https://github.com/HerasX/Allods-English/releases/download/v5/LocMerge.cs",
+  "merge_sha256": "B56D3CB1EB6F993870CA171A39060F37231E0698ACA37DB071132A4AD2359D2B",
+  "addons": [
+    {
+      "name": "RuSearch",
+      "version": "3.5.0",
+      "url": "https://github.com/HerasX/Allods-English/releases/download/v6/RuSearch.zip",
+      "sha256": "62D540BA552F460E3B58A3377A875C5CD81F79455E8202D6DA93A2AF24F4EFCE"
+    }
+  ]
 }
