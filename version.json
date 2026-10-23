@@ -12,7 +12,7 @@
   "addons": [
     {
       "name": "RuSearch",
-      "version": "3.5.1",
+      "version": "3.5.2",
       "url": "https://github.com/HerasX/Allods-English/releases/download/v8/RuSearch.zip",
       "sha256": "3D955E1088CEB0DF46CE7FFF7361F690ED74F0F212FBDB8FE42A759ADDBCDB85"
     }
